@@ -1,26 +1,27 @@
 {
-  "name": "jm motors",
+  "name": "jsmotors",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "nodemailer": "^2.5.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/kjgum/JSmotors.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/kjgum/JSmotors/issues"
   },
-  "homepage": "",
-  "dependencies": {
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
-    "express-handlebars": "^3.0.0"
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/kjgum/JSmotors#readme"
 }
