@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kjgum/JSmotors.git"
+    "url": "git+https://github.com/kjgum/jsmotors.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kjgum/JSmotors/issues"
+    "url": "https://github.com/kjgum/jsmotors/issues"
   },
-  "homepage": "https://github.com/kjgum/JSmotors#readme"
+  "homepage": "https://github.com/kjgum/jsmotors#readme"
 }
